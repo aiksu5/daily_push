@@ -11,5 +11,6 @@
   "appId": "wxc56b9022",
   "appSecret": "96b89bc360ae7315febfbbd",
   "templateId": "OSoSPbyNdUIeVm3nV5pptiC8GrwCXzk",
-  "toUser": ["odW-45hi-ZH3o1rg9i5U","odW-45jDOf1pIwK0I"]
+  "toUser": ["odW-45hi-ZH3o1rg9i5U","odW-45jDOf1pIwK0I"],
+  "oneType": "d"
 }
