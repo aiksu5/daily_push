@@ -5,11 +5,9 @@
 "fullInLoveDate": "2000-01-01", // 纪念日时间
 "name": "1",   // 推送用户1
 "name2": "2",   // 推送用户2
-"birthday": "2000-01-01", // 推送用户1的生日 只支持输入农历
+"birthday": "2000-01-07", // 推送用户1的生日 只支持输入农历
 "birthday2": "2000-01-01",// 推送用户2的生日 只支持输入农历
-
-// 以下数据获取：http://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/index
-"key": "70add67deb8d8d33",
+"key": "7ac70e4c01f34933a5882d28cbba467e",
 "appId": "wx81ac55e348114e8d",
 "appSecret": "87a3cc571153a8c678158ec2a50ae0be",
 "templateId": "yvM5koNRq-EVT-uv7Dd-EoAAfpJSyTRDf0NRCO2CGh0",
