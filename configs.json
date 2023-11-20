@@ -1,16 +1,16 @@
 {
-"location": "滨江区", // 输入地区
-"adm": "杭州市",  // 选填,城市的上级行政区划，可设定只在某个行政区划范围内进行搜索，用于排除重名城市或对结果进行过滤   
-"weatherIndex": "1", //天气指数，具体查看https://dev.qweather.com/docs/resource/indices-info/
-"fullInLoveDate": "2000-01-01", // 纪念日时间
-"name": "1",   // 推送用户1
-"name2": "2",   // 推送用户2
-"birthday": "2000-01-07", // 推送用户1的生日 只支持输入农历
-"birthday2": "2000-01-01",// 推送用户2的生日 只支持输入农历
-"key": "7ac70e4c01f34933a5882d28cbba467e",
-"appId": "wx81ac55e348114e8d",
-"appSecret": "87a3cc571153a8c678158ec2a50ae0be",
-"templateId": "yvM5koNRq-EVT-uv7Dd-EoAAfpJSyTRDf0NRCO2CGh0",
-"toUser": ["ocfvK6GwSldpTYydOe77xt1Nh2O8","ocfvK6HpLyx4Oa5OET8Pv_VQvqsY"]
-"oneType": "d", // 一言接口,详情https://developer.hitokoto.cn/sentence/
+  "location": "长寿区",
+  "adm": "重庆市",
+  "weatherIndex": "1",
+  "fullInLoveDate": "2000-01-01",
+  "name": "1",
+  "name2": "2",
+  "birthday": "2000-01-06",
+  "birthday2": "2000-01-01",
+  "key": "70add67deb8d8d33",
+  "appId": "wx81ac55e348114e8d",
+  "appSecret": "87a3cc571153a8c678158ec2a50ae0be",
+  "templateId": "ISbE6DCfpxVDnqa0UvlH6v910XLLV9pr1G5X7-dBwsU",
+  "toUser": ["ocfvK6GwSldpTYydOe77xt1Nh2O8","ocfvK6HpLyx4Oa5OET8Pv_VQvqsY"],
+  "oneType": "d"
 }
