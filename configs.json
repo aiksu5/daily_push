@@ -1,16 +1,13 @@
-{
   "location": "滨江区",
   "adm": "杭州市",
   "weatherIndex": "1",
   "fullInLoveDate": "2000-01-01",
-  "name": "1",
-  "name2": "2",
-  "birthday": "2000-01-01",
-  "birthday2": "2000-01-01",
+  "name": "ocfvK6GwSldpTYydOe77xt1Nh2O8",
+  "birthday": "2005-06-02",
   "key": "70add67deb8d8d33",
-  "appId": "wxc56b9022",
-  "appSecret": "96b89bc360ae7315febfbbd",
-  "templateId": "OSoSPbyNdUIeVm3nV5pptiC8GrwCXzk",
-  "toUser": ["odW-45hi-ZH3o1rg9i5U","odW-45jDOf1pIwK0I"],
+  "appId": "wx81ac55e348114e8d",
+  "appSecret": "87a3cc571153a8c678158ec2a50ae0be",
+  "templateId": "d9_ao22_ON3F53zZMgXvcqBVPahEfWYVu7nZTAacjzU",
+  "toUser": ["ocfvK6GwSldpTYydOe77xt1Nh2O8"],
   "oneType": "d"
 }
