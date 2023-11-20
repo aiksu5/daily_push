@@ -1,5 +1,6 @@
-  "location": "滨江区",
-  "adm": "杭州市",
+{
+  "location": "长寿区",
+  "adm": "重庆市",
   "weatherIndex": "1",
   "fullInLoveDate": "2000-01-01",
   "name": "ocfvK6GwSldpTYydOe77xt1Nh2O8",
@@ -7,7 +8,7 @@
   "key": "70add67deb8d8d33",
   "appId": "wx81ac55e348114e8d",
   "appSecret": "87a3cc571153a8c678158ec2a50ae0be",
-  "templateId": "d9_ao22_ON3F53zZMgXvcqBVPahEfWYVu7nZTAacjzU",
+  "templateId": "ISbE6DCfpxVDnqa0UvlH6v910XLLV9pr1G5X7-dBwsU",
   "toUser": ["ocfvK6GwSldpTYydOe77xt1Nh2O8"],
   "oneType": "d"
 }
