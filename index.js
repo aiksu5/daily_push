@@ -134,7 +134,7 @@ const setData = async (toUser) => {
     return {
         "touser": toUser,
         "template_id": configs.templateId,
-        "url": "http://www.baidu.com",
+        "url": openurl,
         "topcolor": "#FF0000",
         "data": {
             "date": {
@@ -183,6 +183,7 @@ const setData = async (toUser) => {
     }
 }
 // 获取access_token
+const assembleOpenUrl = () => 'www.baidu.com'
 const getAccessToken = async ()=>{
     await axios.get(`https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=${configs.appId}&secret=${configs.appSecret}`)
         .then((res) => {
