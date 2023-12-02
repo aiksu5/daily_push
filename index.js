@@ -134,7 +134,7 @@ const setData = async (toUser) => {
     return {
         "touser": toUser,
         "template_id": configs.templateId,
-        "url": openurl,
+        "url": "http://weixin.qq.com/download",
         "topcolor": "#FF0000",
         "data": {
             "date": {
@@ -178,15 +178,11 @@ const setData = async (toUser) => {
             },
             "oneWords2": {
                 "value": configs.oneWords2?configs.oneWords2:"",
-            "OpenUrl": {
-                "value": configs.OpenUrl,
             },
         }
     }
 }
 // 获取access_token
-const assembleOpenUrl = () => 'www.baidu.com'
-url: assembleOpenUrl(www.baidu.com),
 const getAccessToken = async ()=>{
     await axios.get(`https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=${configs.appId}&secret=${configs.appSecret}`)
         .then((res) => {
@@ -227,7 +223,7 @@ async function mainFn() {
     await getAccessToken();
     await getCityId();
     await getWeatherDetails('indices');
-    await openurl();
+    await getWeatherDetails('weather');
 
     for (const item of configs.toUser) {
         let upInfo = await setData(item);
