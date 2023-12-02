@@ -134,7 +134,7 @@ const setData = async (toUser) => {
     return {
         "touser": toUser,
         "template_id": configs.templateId,
-        "url": "http://weixin.qq.com/download",
+        "url": "http://www.baidu.com",
         "topcolor": "#FF0000",
         "data": {
             "date": {
