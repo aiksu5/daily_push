@@ -1,6 +1,6 @@
 {
-  "location": "重庆市长寿区",
-  "adm": "重庆市",
+  "location": "福建省福州市",
+  "adm": "",
   "weatherIndex": "1",
   "fullInLoveDate": "2023-09-01",
   "name": "EdXposedManager",
@@ -11,6 +11,6 @@
   "appId": "wx81ac55e348114e8d",
   "appSecret": "87a3cc571153a8c678158ec2a50ae0be",
   "templateId": "GR-shvryBNlKzctTRWaRzXMwUh0ahKaauS-p6qzZeFE",
-  "toUser": ["ocfvK6GwSldpTYydOe77xt1Nh2O8","ocfvK6HpLyx4Oa5OET8Pv_VQvqsY"],
+  "toUser": ["ocfvK6GwSldpTYydOe77xt1Nh2O8","ocfvK6GwSldpTYydOe77xt1Nh2O8"],
   "oneType": "i"
   }
